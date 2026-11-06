@@ -1,15 +1,22 @@
- # ColorblindTV
+# ColorblindTV
 
 **See colors more like others see them.**
 
 ColorblindTV is free Windows software for people with red-green colorblindness.
-It corrects everything shown on your PC, including Netflix, YouTube, Xfinity
-and other services in Edge or Chrome, as well as PC games. You choose how
-strong the correction is and can change it at any time.
+It makes reds and greens easier to tell apart. You choose how strong the
+correction is and can change it at any time.
 
-To watch on a TV, connect the PC to the TV with an HDMI cable.
-ColorblindTV can't change apps running on a smart TV, Roku or cable box;
-the video has to play on the PC.
+## How it works
+
+ColorblindTV runs on a Windows PC. The video is selected and played on the PC,
+either in a browser such as Edge or Chrome, or in an app such as Netflix,
+YouTube, Xfinity, or a video game.
+
+The color-enhanced picture is shown on a TV connected to the PC with an HDMI
+cable. The PC's own screen (for example, a laptop screen) is not changed.
+
+Video from a Roku, cable box, or the TV's own smart-TV apps cannot be enhanced,
+because it does not pass through the PC.
 
 ## Download
 
@@ -29,4 +36,5 @@ Requires Windows 11.
 ## More information
 
 https://colorblindtv.com
+
 Questions: colorblindtv9@gmail.com

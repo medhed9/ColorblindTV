@@ -22,7 +22,7 @@ because it does not pass through the PC.
 
 **[Download ColorblindTV for Windows (v1.0.7)](https://github.com/medhed9/ColorblindTV/releases/download/v1.0.7/ColorblindTV_Setup_1.0.7.exe)**
 
-Requires Windows 11.
+Requires Windows 10 or 11.
 
 ## How to install
 

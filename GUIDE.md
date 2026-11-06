@@ -69,6 +69,14 @@ The Control Panel sets how strong the color enhancement is. Press **Ctrl+Alt+P**
 
 Each slider goes from 0 (no change) to 40 (strongest). Click anywhere on a slider to jump straight to that spot, or drag it. The arrow keys move it one step at a time. ColorblindTV starts at 15, and your settings are saved automatically for next time.
 
+### What the numbers mean
+
+Every pixel on the screen is made of three tiny lights: red, green and blue. Each one has a brightness from **0** (off) to **255** (full brightness), and the mix of the three makes the pixel's color.
+
+The number on each slider is the **largest amount ColorblindTV is allowed to change that color in a pixel**, up or down, on that 0–255 scale. For example, with Red set to **20**, the red part of a pixel can be raised or lowered by up to 20 steps out of 255. With the slider at **0**, that color is never changed.
+
+The slider sets the *maximum*. Most pixels are changed by less than this, since the amount of change is based on the red-green difference at that pixel. Therefore colors with equal values of red and green are not changed at all. For comparison, the strongest setting, 40, is about one-sixth of the full 0–255 range.
+
 ## The Color Test (Ctrl+Alt+C)
 
 ![The Color Test on the TV, with the Control Panel open](images/color-test.png)

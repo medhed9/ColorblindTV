@@ -81,7 +81,7 @@ The slider sets the *maximum*. Most pixels are changed by less than this, since 
 
 ![The Color Test on the TV, with the Control Panel open](images/color-test.png)
 
-Everyone's color vision is different, so the best setting is personal.  The Control Panel can be used to adjust the colors to your preference, but for I have included an Ishihara-type Color Test if you desire a measured setting.
+Everyone's color vision is different, so the best setting is personal.  The Control Panel can be used to adjust the colors to your preference, but for I have included an Ishihara-type Color Test if you desire a measured setting.  I generally prefer 20-25 for red and blue, 25-30 for green.
 
 ### How the plates work
 

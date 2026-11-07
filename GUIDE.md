@@ -12,8 +12,8 @@ ColorblindTV runs on a Windows PC connected to your TV. This guide explains how 
 
 - A Windows 10 or Windows 11 PC (64-bit).  I use a mini PC, BMax Mini PC B4 Ultra, and leave it on continuously.
 - An HDMI cable connecting the PC to your TV
-- Microsoft Edge, which is already on every Windows PC, for watching Netflix, YouTube, Prime Video, Xfinity and other services
-- A keyboard and mouse. I use the Logitech K400 Plus Wireless Keyboard.  A wireless TV-style remote is optional (I use the Rii MX3 air mouse).
+- A web browser such as Edge or Chrome, or dedicated apps for watching Netflix, YouTube, Prime Video, Xfinity and other video sources on the PC
+- A keyboard and mouse (I use the Logitech K400 Plus Wireless Keyboard).  A wireless TV-style remote is optional (I use the Rii MX3 air mouse).
 
 The color-enhanced picture is shown on the TV. If the PC has its own screen (for example, a laptop screen), it is not changed. Only video that plays on the PC is enhanced. Cable boxes, antennas, streaming devices and the TV’s own apps which send video straight to the TV are not color enhanced.
 

@@ -26,7 +26,7 @@ Version 1.0.7 · 36 MB · Windows 10 and 11 (64-bit) · Free
 ## Install
 
 1. Connect the PC to the TV and turn the TV on.
-2. Click the download link above. If your browser says the file "isn't commonly downloaded," click **⋯ → Keep** (Edge) or **Keep** (Chrome).
+2. Click the download link above. If your browser says the file "isn't commonly downloaded," click **⋯ → Keep**.
 3. Open your Downloads folder and double-click **ColorblindTV_Setup_1.0.7.exe**.
 4. **If Windows warns you:** Windows may show a blue box saying **"Windows protected your PC."** This appears because ColorblindTV is new and not yet registered with Microsoft. Click **More info**, then **Run anyway**.
 5. When Windows asks **"Do you want to allow this app to make changes to your device?"**, click **Yes**.

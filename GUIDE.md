@@ -2,7 +2,7 @@
 
 **See colors more like others see them.**
 
-ColorblindTV runs on an ordinary Windows PC connected to your TV. This guide explains how to download and install it, and how to use its two most important tools: the **Control Panel**, which sets the strength of the color enhancement, and the **Color Test**, which helps you find the setting that works best for your own eyes.
+ColorblindTV runs on a Windows PC connected to your TV. This guide explains how to download and install it, and how to use its two most important tools: the **Control Panel**, which sets the strength of the color enhancement, and the **Color Test**, which helps you find the setting that works best for your own eyes.
 
 **Contents:** [What you need](#what-you-need) · [Download](#download) · [Install](#install) · [Keyboard shortcuts](#keyboard-shortcuts) · [Control Panel](#the-control-panel-ctrlaltp) · [Color Test](#the-color-test-ctrlaltc) · [Remote control](#using-a-remote-control-ctrlaltr) · [Turning it off or removing it](#turning-it-off-or-removing-it) · [Troubleshooting](#troubleshooting)
 

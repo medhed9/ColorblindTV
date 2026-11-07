@@ -117,13 +117,30 @@ This sample plate is shown without any enhancement. People with typical color vi
 
 ## Using a remote control (Ctrl+Alt+R)
 
-If you use a wireless TV-style remote with your PC, you can choose two of its buttons: one that shows or hides the Control Panel, and one that opens or closes the Color Test.
+If you use a wireless TV-style remote with your PC, you can choose four of its
+buttons:
+
+| Button | What it does |
+|---|---|
+| **Control Panel** | Shows or hides the Control Panel |
+| **Color Test** | Opens or closes the Color Test |
+| **Stronger** | Raises the color enhancement to the next higher preset (for example, 20 → 25) |
+| **Weaker** | Lowers the color enhancement to the next lower preset (for example, 20 → 15) |
+
+To choose them:
 
 1. Press **Ctrl+Alt+R**.
-2. When asked, press the remote button you want for the Control Panel.
-3. Then press the button you want for the Color Test.
+2. When asked, press the remote button you want for the **Control Panel**.
+3. Then press the button you want for the **Color Test**.
+4. Then press the button you want for **Stronger**.
+5. Then press the button you want for **Weaker**.
 
-Press **Esc** at either step to keep the button you already have. The arrow buttons and OK can't be used, because you need them to move around. Your choices are saved for next time.
+Press **Esc** at any step to keep the button you already have. The arrow
+buttons and OK can't be used, because you need them to move around. Your
+choices are saved for next time.
+
+The Stronger and Weaker buttons let you change the enhancement while
+watching, without opening the Control Panel.
 
 ## Turning it off or removing it
 

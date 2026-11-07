@@ -15,8 +15,8 @@ YouTube, Xfinity, or a video game.
 The color-enhanced picture is shown on a TV connected to the PC with an HDMI
 cable. The PC's own screen (for example, a laptop screen) is not changed.
 
-Video from a Roku, cable box, or the TV's own smart-TV apps cannot be enhanced,
-because it does not pass through the PC.
+Only video that plays on the PC is enhanced. Cable boxes, antennas, streaming devices and the TV’s
+own apps which send video straight to the TV are not color enhanced.
 
 ## Download
 

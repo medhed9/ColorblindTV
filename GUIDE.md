@@ -15,7 +15,7 @@ ColorblindTV runs on an ordinary Windows PC connected to your TV. This guide exp
 - Microsoft Edge, which is already on every Windows PC, for watching Netflix, YouTube, Prime Video, Xfinity and other services
 - A keyboard and mouse. A wireless TV-style remote is optional.
 
-The color-enhanced picture is shown on the TV. The PC's own screen (for example, a laptop screen) is not changed. Video from a Roku, cable box, or the TV's own smart-TV apps cannot be enhanced, because it does not pass through the PC.
+The color-enhanced picture is shown on the TV. The PC's own screen (for example, a laptop screen) is not changed. Only video that plays on the PC is enhanced. Cable boxes, antennas, streaming devices and the TV’s own apps which  send video straight to the TV are not color enhanced.
 
 ## Download
 

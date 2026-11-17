@@ -27,11 +27,9 @@ Requires Windows 10 or 11.
 ## How to install
 
 1. Click the download link above.
-2. If your browser says the file "isn't commonly downloaded," click **⋯ → Keep** (Edge) or **Keep** (Chrome).
-3. Open the downloaded file.
-4. If Windows shows **"Windows protected your PC,"** click **More info → Run anyway**.
-5. When Windows asks **"Do you want to allow this app to make changes to your device?"**, click **Yes**.
-6. Follow the installer's steps.
+2. Open the downloaded file.
+3. When Windows asks **"Do you want to allow this app to make changes to your device?"**, click **Yes**.
+4. Follow the installer's steps/Guide instructions.
 
 ## More information
 

@@ -19,15 +19,15 @@ The color-enhanced picture is shown on the TV. If the PC has its own screen (for
 
 ## Download
 
-**[Download ColorblindTV for Windows (v1.0.8)](https://github.com/medhed9/ColorblindTV/releases/download/v1.0.8/ColorblindTV_Setup_1.0.8.exe)**
+**[Download ColorblindTV for Windows (v1.0.9)](https://github.com/medhed9/ColorblindTV/releases/download/v1.0.9/ColorblindTV_Setup_1.0.9.exe)**
 
-Version 1.0.8 · 36 MB · Windows 10 and 11 (64-bit) · Free
+Version 1.0.9 · 36 MB · Windows 10 and 11 (64-bit) · Free
 
 ## Install
 
 1. Connect the PC to the TV and turn the TV on.
 2. Click the download link above.
-3. Open your Downloads folder and double-click **ColorblindTV_Setup_1.0.8.exe**.
+3. Open your Downloads folder and double-click **ColorblindTV_Setup_1.0.9.exe**.
 4. When Windows asks **"Do you want to allow this app to make changes to your device?"**, click **Yes**.
 5. Click **Next**, read the notice, and click **I Agree**.
 7. Wait a few minutes while setup finishes. No internet connection is needed: everything ColorblindTV uses is included in the download. Setup checks your PC's graphics and installs the right version automatically.
@@ -149,7 +149,7 @@ watching, without opening the Control Panel.
 ## Troubleshooting
 
 - **"Windows protected your PC":** Click **More info**, then **Run anyway**.
-- **Your antivirus program blocks setup:** Allow ColorblindTV_Setup_1.0.8.exe in your antivirus program and run it again.
+- **Your antivirus program blocks setup:** Allow ColorblindTV_Setup_1.0.9.exe in your antivirus program and run it again.
 - **Nothing appears on the TV:** Check that the TV is set to the HDMI input the PC is plugged into.
 - **Questions or problems:** Email [colorblindtv9@gmail.com](mailto:colorblindtv9@gmail.com), or ask in [Discussions](https://github.com/medhed9/ColorblindTV/discussions).
 

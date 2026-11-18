@@ -20,7 +20,7 @@ own apps which send video straight to the TV are not color enhanced.
 
 ## Download
 
-**[Download ColorblindTV for Windows (v1.0.8)](https://github.com/medhed9/ColorblindTV/releases/download/v1.0.8/ColorblindTV_Setup_1.0.8.exe)**
+**[Download ColorblindTV for Windows (v1.0.9)](https://github.com/medhed9/ColorblindTV/releases/download/v1.0.9/ColorblindTV_Setup_1.0.9.exe)**
 
 Requires Windows 10 or 11.
 
